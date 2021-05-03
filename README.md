@@ -11,11 +11,13 @@ We will do this by answering the following questions:
 
     1.How many employers provide mental health benefits?
 
-    2.What level of comfort do people have discussing mental health with their employers vs How many actually have discussed mental health with their employers?
+    2.What level of comfort do people have discussing mental health with their employers?
 
     3.Do those that identify as having a mental disorder feel as though they are being supported?
-
-    4.What is the level of importance on mental health placed by employers in the US vs other locations?
     
-    5.What is the level of importance placed on mental health by employers over time?
+    4.What is the level of importance placed on mental health versus physical health by employers over time? 
+
+    5.What is the level of importance on mental health placed by employers in the US vs other locations?
+    
+   
 
