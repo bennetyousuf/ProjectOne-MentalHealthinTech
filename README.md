@@ -17,7 +17,6 @@ We will do this by answering the following questions:
     
     4.What is the level of importance placed on mental health versus physical health by employers over time? 
 
-    5.What is the level of importance on mental health placed by employers in the US vs other locations?
     
    
 
